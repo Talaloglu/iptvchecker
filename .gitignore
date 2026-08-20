@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+results/
+data*.json

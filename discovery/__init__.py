@@ -1,0 +1,1 @@
+# IPTV Checker - Discovery Module
